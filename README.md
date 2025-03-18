@@ -4,6 +4,8 @@
 
 Sotaos-Gabe stands for State Of The Art Open Source GenAI for Business Engine. Our vision is to enable generative AI and robots serve multiple industries.
 
+We train industrial LLMs based on open source LLMs, such as DeepSeek, Qwen, etc. with industrial specific corpus to address industrial specific needs. On top of our industrial LLMs or public LLMs, we develop AI Agents to enhance productivity, streamline operations, and enable intelligent decision-making. 
+
 ## Importance of Industrial LLM
 
 The emergence of Large Language Models (LLMs) has revolutionized the way industries approach automation, decision-making, and knowledge management. These models, trained on vast datasets, possess the ability to understand and generate human-like text across various domains. In industrial contexts, LLMs are being leveraged for tasks such as predictive maintenance, process optimization, supply chain management, and customer support.
