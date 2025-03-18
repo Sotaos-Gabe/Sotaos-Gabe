@@ -1,8 +1,8 @@
-# GABE
+# Sotaos-Gabe
 
 # Introduction
 
-GABE stands for DeepSeek powered GenAI for Business Engine. Our vision is to enable generative AI and robots serve multiple industries.
+Sotaos-Gabe stands for State Of The Art Open Source GenAI for Business Engine. Our vision is to enable generative AI and robots serve multiple industries.
 
 ## Importance of Industrial LLM
 
