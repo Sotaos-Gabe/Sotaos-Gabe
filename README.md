@@ -41,7 +41,7 @@ Industrial LLMs often serve as the "brain" behind AI agents, providing contextua
 
 Below is our product GABE overview.
 
-![image](https://github.com/user-attachments/assets/32d05407-a2fa-4828-b73b-5e240814af21)
+![image](./images/product.png)
 
 # Solution Overview
 
