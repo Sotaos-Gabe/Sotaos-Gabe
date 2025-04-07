@@ -45,7 +45,11 @@ Below is our product GABE overview.
 
 # Solution Overview
 
-Below is our solution overview.
+Below is our solution for medical industry.
 
-![image](https://github.com/user-attachments/assets/b911184d-64ee-474f-af98-1883396935f1)
+![image](./images/medical.png)
+
+Below is our solution for judicial field.
+
+![image](./images/judicial.png)
 
